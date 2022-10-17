@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Dr. Yu Chen</a>.Associate Professor, Department of Electrical and Computer Engineering. 
+subtitle: <a href='#'>Dr. Yu Chen</a>. Professor, Department of Electrical and Computer Engineering. 
 Associate Director, Center for Information Assurance and Cybersecurity.
 
 profile:
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Dr. Yu Chen is an Associate Professor of Electrical and Computer Engineering at the State University of New York - Binghamton. He received the Ph.D. in Electrical Engineering from the University of Southern California (USC) in 2006 under the supervision of Professor Kai Hwang. Before join Professor Hwang's group, he was working as a research assistant in the Advanced Interconnection and Network Technology Lab led by Professor Anthony F. J. Levi. His research has been funded by NSF, DoD, AFOSR, AFRL, New York State, and industrial partners. He has authored or coauthored more than 200 scientific papers in refereed journals, conferences, and book chapters. He is a Senior Member of IEEE (Computer Society & Communication Society) and SPIE, and a member of ACM and SIGMA XI.
+Dr. Yu Chen is a Professor of Electrical and Computer Engineering at the State University of New York - Binghamton. He received the Ph.D. in Electrical Engineering from the University of Southern California (USC) in 2006 under the supervision of Professor Kai Hwang. Before join Professor Hwang's group, he was working as a research assistant in the Advanced Interconnection and Network Technology Lab led by Professor Anthony F. J. Levi. His research has been funded by NSF, DoD, AFOSR, AFRL, New York State, and industrial partners. He has authored or coauthored more than 200 scientific papers in refereed journals, conferences, and book chapters. He is a Senior Member of IEEE (Computer Society & Communication Society) and SPIE, and a member of ACM and SIGMA XI.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
