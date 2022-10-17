@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Dr. Yu Chen</a>. Professor, Department of Electrical and Computer Engineering. 
-Associate Director, Center for Information Assurance and Cybersecurity.
+subtitle: <a href='#'>Dr. Yu Chen</a>. Professor, Department of Electrical and Computer Engineering.<br>Associate Director, Center for Information Assurance and Cybersecurity.
 
 profile:
   align: right
