@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Deeraj Nagothu
-description: a project with a background image
+description: Research Assistant
 img: https://deerajnagothu.com/assets/img/prof_pic-1400.webp
 importance: 1
 category: work
