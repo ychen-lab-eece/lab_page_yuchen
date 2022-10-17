@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>Associate Professor,Department of Electrical and Computer Engineering
+Associate Director, Center for Information Assurance and Cybersecurity
+Binghamton University, State University of New York
+Binghamton, NY 13902
 
 profile:
   align: right
