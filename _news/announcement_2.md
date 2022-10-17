@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Senior Design Project on collecting ENF data.
+date: 2022-10-03 16:11:00-0400
 inline: false
 ---
 
