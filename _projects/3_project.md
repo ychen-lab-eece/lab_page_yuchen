@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Han Sun
+description: Teaching Assistant
+img: https://media-exp1.licdn.com/dms/image/C4D03AQFkxxFWPFuRKg/profile-displayphoto-shrink_800_800/0/1518636495472?e=2147483647&v=beta&t=AgP-Vg9zDLn2m5n_0i4keOMPinWsRBHR7vcn1Wb-OgQ
 redirect: https://unsplash.com
 importance: 3
 category: work
