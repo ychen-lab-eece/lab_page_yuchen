@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
+title: Deeraj Nagothu
 description: a project with a background image
-img: assets/img/12.jpg
+img: https://deerajnagothu.com/assets/img/prof_pic-1400.webp
 importance: 1
 category: work
 ---
