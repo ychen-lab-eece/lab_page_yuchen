@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Ronghua Xu
+description: Research Assistant
+img: https://media-exp1.licdn.com/dms/image/C5603AQGNO1cH6uChkA/profile-displayphoto-shrink_200_200/0/1517807909564?e=2147483647&v=beta&t=NvUOld__TvLCQVyRz0j44BtdPMCB90rfxPv1rxMb1BU
 importance: 2
 category: work
 ---
