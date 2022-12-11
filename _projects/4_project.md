@@ -4,7 +4,6 @@ title: Qian Qu
 description: Research Assistant
 img: /assets/img/Qian.PNG
 importance: 3
-category: fun
 ---
 
 Every project has a beautiful feature showcase page.
