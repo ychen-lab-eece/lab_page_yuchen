@@ -2,7 +2,7 @@
 layout: page
 title: Qian Qu
 description: Research Assistant
-img: Qian.png
+img: /assets/img/Qian.png
 importance: 3
 category: fun
 ---
