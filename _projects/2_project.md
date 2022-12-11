@@ -4,7 +4,7 @@ title: Ronghua Xu
 description: Research Assistant
 img: /assets/img/Ronghua.jfif
 importance: 1
-category:work
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
