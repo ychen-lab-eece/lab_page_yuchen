@@ -4,7 +4,6 @@ title: Nihal Poredi
 description: Research Assistant
 img: /assets/img/Nihal.jpg
 importance: 3
-category: fun
 ---
 
 Every project has a beautiful feature showcase page.
