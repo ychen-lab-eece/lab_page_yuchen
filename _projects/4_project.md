@@ -3,7 +3,8 @@ layout: page
 title: Qian Qu
 description: Research Assistant
 img: /assets/img/Qian.PNG
-importance: 3
+importance: 4
+category:work
 ---
 
 Every project has a beautiful feature showcase page.
