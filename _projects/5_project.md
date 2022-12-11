@@ -3,7 +3,8 @@ layout: page
 title: Nihal Poredi
 description: Research Assistant
 img: /assets/img/Nihal.jpg
-importance: 3
+importance: 5
+category:work
 ---
 
 Every project has a beautiful feature showcase page.
