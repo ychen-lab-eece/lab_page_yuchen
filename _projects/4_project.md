@@ -3,7 +3,7 @@ layout: page
 title: Qian Qu
 description: Research Assistant
 img: /assets/img/Qian.PNG
-importance: 4
+importance: 5
 category: Our Team
 ---
 
