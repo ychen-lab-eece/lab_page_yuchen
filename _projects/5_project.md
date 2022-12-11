@@ -3,7 +3,7 @@ layout: page
 title: Nihal Poredi
 description: Research Assistant
 img: /assets/img/Nihal.jpg
-importance: 5
+importance: 6
 category: Our Team
 ---
 
