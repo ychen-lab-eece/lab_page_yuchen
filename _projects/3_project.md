@@ -4,7 +4,6 @@ title: Han Sun
 description: Research Assistant
 img: /assets/img/Han-Sun-22.jpg
 importance: 3
-category: work
 ---
 
 Every project has a beautiful feature showcase page.
