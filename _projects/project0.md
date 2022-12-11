@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Deeraj Nagothu
-description: Research Assistant
-img: https://deerajnagothu.com/assets/img/prof_pic-1400.webp
-importance: 2
+title: Dr. Yu Chen
+description: Professor
+img: /assets/img/ychen.jpg
+importance: 1
 category: Our Team
 ---
 
