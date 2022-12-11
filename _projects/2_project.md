@@ -2,7 +2,7 @@
 layout: page
 title: Ronghua Xu
 description: Research Assistant
-img: Ronghua.jfif
+img: /assets/img/Ronghua.jfif
 importance: 2
 category: work
 ---
