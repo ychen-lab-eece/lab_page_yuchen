@@ -3,7 +3,7 @@ layout: page
 title: Deeraj Nagothu
 description: Research Assistant
 img: https://deerajnagothu.com/assets/img/prof_pic-1400.webp
-importance: 1
+importance: 2
 category:work
 ---
 
