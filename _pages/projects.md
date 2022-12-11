@@ -2,10 +2,10 @@
 layout: page
 title: People
 permalink: /projects/
-description: Our Team.
+description: 
 nav: true
 nav_order: 2
-display_categories: []
+display_categories: [Our Team]
 horizontal: false
 ---
 
