@@ -6,7 +6,7 @@ subtitle: <a href='#'>Dr. Yu Chen</a>. Professor, Department of Electrical and C
 
 profile:
   align: right
-  image: DrChen.jpg
+  image: Chen_research_group.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Department of Electrical and Computer Engineering</p>
