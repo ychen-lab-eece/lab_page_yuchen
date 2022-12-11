@@ -4,7 +4,7 @@ title: Deeraj Nagothu
 description: Research Assistant
 img: https://deerajnagothu.com/assets/img/prof_pic-1400.webp
 importance: 2
-category: 
+category: Our Team
 ---
 
 Every project has a beautiful feature showcase page.
