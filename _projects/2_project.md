@@ -3,7 +3,8 @@ layout: page
 title: Ronghua Xu
 description: Research Assistant
 img: /assets/img/Ronghua.jfif
-importance: 2
+importance: 1
+category:work
 ---
 
 Every project has a beautiful feature showcase page.
