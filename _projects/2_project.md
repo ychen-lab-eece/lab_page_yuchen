@@ -2,7 +2,7 @@
 layout: page
 title: Ronghua Xu
 description: Research Assistant
-img: https://media-exp1.licdn.com/dms/image/C5603AQGNO1cH6uChkA/profile-displayphoto-shrink_200_200/0/1517807909564?e=2147483647&v=beta&t=NvUOld__TvLCQVyRz0j44BtdPMCB90rfxPv1rxMb1BU
+img: Ronghua.jfif
 importance: 2
 category: work
 ---
