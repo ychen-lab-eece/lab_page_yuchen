@@ -4,6 +4,7 @@ title: Dr. Yu Chen
 description: Professor
 img: /assets/img/ychen.jpg
 importance: 1
+permalink: https://bingweb.binghamton.edu/~ychen/
 category: Our Team
 ---
 
