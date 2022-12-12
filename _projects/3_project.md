@@ -4,6 +4,7 @@ title: Han Sun
 description: Research Assistant
 img: /assets/img/Han_Sun_2.jpg
 importance: 4
+permalink: https://www.linkedin.com/in/hansun11140/
 category: Our Team
 ---
 
