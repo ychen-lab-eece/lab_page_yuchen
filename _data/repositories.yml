@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
+  - deerajnagothu
   - samuelxu999
+  - nporedi1
 
 github_repos:
   - samuelxu999/Research
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - deerajnagothu/pyenf_extraction
