@@ -2,7 +2,7 @@
 layout: page
 title: Han Sun
 description: Research Assistant
-img: /assets/img/Han-Sun-22.jpg
+img: /assets/img/Han_Sun_2.jpg
 importance: 4
 category: Our Team
 ---
