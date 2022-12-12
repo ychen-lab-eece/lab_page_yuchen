@@ -1,9 +1,9 @@
 github_users:
   - torvalds
-  - alshedivat
+  - samuelxu999
 
 github_repos:
-  - alshedivat/al-folio
+  - samuelxu999/Research
   - twbs/bootstrap
   - jekyll/jekyll
   - jquery/jquery
