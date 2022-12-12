@@ -2,8 +2,7 @@
 layout: page
 title: Deeraj Nagothu
 description: Research Assistant
-img: https://deerajnagothu.com/assets/img/prof_pic-1400.webp
-permalink: https://deerajnagothu.com/
+img: https://deerajnagothu.com/assets/img/prof_pic-1400.webp (https://deerajnagothu.com/)
 importance: 3
 category: Our Team
 ---
