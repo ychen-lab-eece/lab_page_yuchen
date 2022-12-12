@@ -3,6 +3,7 @@ layout: page
 title: Ronghua Xu
 description: Research Assistant
 img: /assets/img/Ronghua.jfif
+permalink: https://www.linkedin.com/in/ronghua-xu-bu/
 importance: 2
 category: Our Team
 ---
