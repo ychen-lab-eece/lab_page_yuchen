@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Dr. Yu Chen</a>. Professor, Department of Electrical and Computer Engineering.<br>Associate Director, Center for Information Assurance and Cybersecurity.
+subtitle: Department of Electrical and Computer Engineering.
 
 profile:
   align: right
   image: Chen_research_group.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Department of Electrical and Computer Engineering</p>
+    <p><a href='#'>Dr. Yu Chen</a>. Professor, Department of Electrical and Computer Engineering.<br>Associate Director, Center for Information Assurance and Cybersecurity.</p>
     <p>Binghamton University</p>
    
 
