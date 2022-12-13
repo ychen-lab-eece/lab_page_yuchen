@@ -3,6 +3,7 @@ layout: page
 title: Qian Qu
 description: Research Assistant
 img: /assets/img/Qian.PNG
+permalink: https://www.linkedin.com/in/qianqu112358/
 importance: 5
 category: Our Team
 ---
