@@ -3,7 +3,7 @@ layout: page
 title: Ronghua Xu
 description: Research Assistant
 img: /assets/img/Ronghua.jfif
-permalink: https://bingweb.binghamton.edu/~rxu22/myacademics/home
+permalink: https://samuelxu999.github.io/
 importance: 2
 category: Our Team
 ---
