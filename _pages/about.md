@@ -8,8 +8,8 @@ profile:
   align: right
   image: GroupPic.jpeg
   image_circular: false # crops the image to make it circular
-  width : 300
-  height : 60
+  width : 300 px
+  height : 60 px
   address: >
     <p><a href='#'>Dr. Yu Chen</a>. Professor, Department of Electrical and Computer Engineering.<br>Associate Director, Center for Information Assurance and Cybersecurity.</p>
     <p>Binghamton University</p>
