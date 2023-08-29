@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: About
 title: About
 permalink: /
 subtitle: Department of Electrical and Computer Engineering.
