@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /data/cv.yml
 title: cv
 nav: true
 nav_order: 4
