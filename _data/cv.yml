@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 14th March 2023
     - name: Languages
-      value: English, German, French
+      value: English, German, French, Chinese
 
 - title: Education
   type: time_table
